@@ -1,0 +1,15 @@
+[
+   {
+      "breeds":[],
+      "categories":[
+         {
+            "id":4,
+            "name":"sunglasses"
+         }
+      ],
+      "id":"152",
+      "url":"https://cdn2.thecatapi.com/images/152.jpg",
+      "width":700,
+      "height":490
+   }
+]
